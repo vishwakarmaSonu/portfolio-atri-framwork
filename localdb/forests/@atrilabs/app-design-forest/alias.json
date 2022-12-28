@@ -1,0 +1,13 @@
+{
+  "BarChart": 1,
+  "AreaChart": 1,
+  "Flex": 109,
+  "TextBox": 90,
+  "Dropdown": 1,
+  "Input": 5,
+  "Image": 7,
+  "Button": 4,
+  "Div": 4,
+  "Icon": 2,
+  "Link": 1
+}
